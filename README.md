@@ -1,4 +1,4 @@
-# React Typescript app
+# React Typescript Feedback app
 
 Demo app for comenting, upvoting, selecting(filtering coments based on a company).
 It uses Typescript and Zustand
